@@ -4,7 +4,7 @@
 
 int main(void){
 
-		int m, N, p, k=0;
+		int m, N, k=0;
 		int i, j;
 		
 
