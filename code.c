@@ -25,7 +25,7 @@ int main(void){
 
 				FILE* p;
 		p = fopen("p.txt", "w");
-		fprintf(g, "count petli:\n");	
+		fprintf(p, "count petli:\n");	
              for (i = 0; i < N; i++)
 			     for (j = 0; j < N; j++) {
                      if (i==j) 
